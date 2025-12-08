@@ -1,9 +1,9 @@
 <div align="center">
 
 <!-- Animated Header với Gradient -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=320&section=header&text=Võ%20Trường%20Đan&fontSize=65&fontColor=FFD700&animation=fadeIn&fontAlignY=38&desc=Lập%20Trình%20Viên%20Full-Stack%20%7C%20Chuyên%20Gia%20Mobile%20%7C%20Người%20Đam%20Mê%20Công%20Nghệ&descAlignY=58&descSize=22&descColor=FFD700"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=320&section=header&text=Võ%20Trường%20Đan&fontSize=65&fontColor=000000&animation=fadeIn&fontAlignY=38&desc=Lập%20Trình%20Viên%20Full-Stack%20%7C%20Chuyên%20Gia%20Mobile%20%7C%20Người%20Đam%20Mê%20Công%20Nghệ&descAlignY=58&descSize=22&descColor=000000"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3500&pause=1000&color=FFD700&center=true&vCenter=true&multiline=true&width=900&height=140&lines=Chuyên+gia+Laravel+%26+React+Native;Xây+dựng+giải+pháp+doanh+nghiệp+mở+rộng;Đam+mê+kiến+trúc+sạch+%26+hiệu+suất+cao;Đổi+mới+thông+qua+công+nghệ" alt="Dynamic Typing Animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3500&pause=1000&color=DAA520&center=true&vCenter=true&multiline=true&width=900&height=140&lines=Chuyên+gia+Laravel+%26+React+Native;Xây+dựng+giải+pháp+doanh+nghiệp+mở+rộng;Đam+mê+kiến+trúc+sạch+%26+hiệu+suất+cao;Đổi+mới+thông+qua+công+nghệ" alt="Dynamic Typing Animation" />
 
 </div>
 
