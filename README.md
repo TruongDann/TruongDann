@@ -1,9 +1,9 @@
 <div align="center">
 
 <!-- Animated Header với Gradient -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,25,30&height=320&section=header&text=Võ%20Trường%20Đan&fontSize=65&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Lập%20Trình%20Viên%20Full-Stack%20%7C%20Chuyên%20Gia%20Mobile%20%7C%20Người%20Đam%20Mê%20Công%20Nghệ&descAlignY=58&descSize=22"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:FFD700,100:000000&height=320&section=header&text=Võ%20Trường%20Đan&fontSize=65&fontColor=FFD700&animation=fadeIn&fontAlignY=38&desc=Lập%20Trình%20Viên%20Full-Stack%20%7C%20Chuyên%20Gia%20Mobile%20%7C%20Người%20Đam%20Mê%20Công%20Nghệ&descAlignY=58&descSize=22"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3500&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=900&height=140&lines=Chuyên+gia+Laravel+%26+React+Native;Xây+dựng+giải+pháp+doanh+nghiệp+mở+rộng;Đam+mê+kiến+trúc+sạch+%26+hiệu+suất+cao;Đổi+mới+thông+qua+công+nghệ" alt="Dynamic Typing Animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3500&pause=1000&color=FFD700&center=true&vCenter=true&multiline=true&width=900&height=140&lines=Chuyên+gia+Laravel+%26+React+Native;Xây+dựng+giải+pháp+doanh+nghiệp+mở+rộng;Đam+mê+kiến+trúc+sạch+%26+hiệu+suất+cao;Đổi+mới+thông+qua+công+nghệ" alt="Dynamic Typing Animation" />
 
 </div>
 
@@ -91,10 +91,11 @@
 
 **Thành Thạo Backend**
 ```
-Laravel/PHP         ████████████ 95%
-Node.js/Express     ██████████   85%
-Python/Django       ████████     75%
-API Architecture    ████████████ 92%
+Laravel/PHP         ████████████
+Node.js/Express     ██████████
+Python/Django       ████████
+API Architecture    ████████████
+Microservices       ████████
 ```
 
 </td>
@@ -102,10 +103,11 @@ API Architecture    ████████████ 92%
 
 **Xuất Sắc Frontend**
 ```
-React/Next.js       ███████████  90%
-Vue.js/Nuxt.js     ████████     80%
-TypeScript         ██████████   88%
-Responsive Design   ████████████ 95%
+React/Next.js       ███████████
+Vue.js/Nuxt.js     ████████
+TypeScript         ██████████
+Responsive Design   ████████████
+UI/UX Design       ████████
 ```
 
 </td>
@@ -113,10 +115,11 @@ Responsive Design   ████████████ 95%
 
 **Mobile & DevOps**
 ```
-React Native       ████████     82%
-Database Design    ███████████  90%
-Docker/DevOps      ███████      70%
-Cloud Architecture █████████    78%
+React Native       ████████
+Database Design    ███████████
+Docker/DevOps      ███████
+Cloud Architecture █████████
+CI/CD Pipeline     ███████
 ```
 
 </td>
@@ -378,104 +381,6 @@ YouTube channel về lập trình
 
 <div align="center">
 
-## THÀNH THẠO CÔNG NGHỆ
-
-</div>
-
-<div align="center">
-
-### Kiến Trúc Backend
-<img height="70" src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,python,django&theme=dark"/>
-
-### Xuất Sắc Frontend  
-<img height="70" src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,nuxtjs&theme=dark"/>
-
-### Mobile & Đa Nền Tảng
-<img height="70" src="https://skillicons.dev/icons?i=react,flutter,dart,swift,kotlin&theme=dark"/>
-
-### Database & Hạ Tầng
-<img height="70" src="https://skillicons.dev/icons?i=postgres,mysql,redis,docker,aws,nginx&theme=dark"/>
-
-### Hệ Sinh Thái Phát Triển
-<img height="70" src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux&theme=dark"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-### Ma Trận Thành Thạo Kỹ Thuật
-
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TruongDann&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&custom_title=Ngôn+Ngữ+Chính&title_color=70a5fd&text_color=38bdae&bg_color=1a1b27" />
-</td>
-<td align="center" width="25%">
-
-**Thành Thạo Backend**
-```
-Laravel/PHP         ████████████ 95%
-Node.js/Express     ██████████   85%
-Python/Django       ████████     75%
-API Architecture    ████████████ 92%
-Microservices       ████████     78%
-```
-
-</td>
-<td align="center" width="25%">
-
-**Xuất Sắc Frontend**
-```
-React/Next.js       ███████████  90%
-Vue.js/Nuxt.js     ████████     80%
-TypeScript         ██████████   88%
-Responsive Design   ████████████ 95%
-UI/UX Design       ████████     82%
-```
-
-</td>
-<td align="center" width="25%">
-
-**Mobile & DevOps**
-```
-React Native       ████████     82%
-Database Design    ███████████  90%
-Docker/DevOps      ███████      70%
-Cloud Architecture █████████    78%
-CI/CD Pipeline     ███████      75%
-```
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-<div align="center">
-
-## PHÂN TÍCH HIỆU SUẤT
-
-</div>
-
-<div align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=TruongDann&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&custom_title=Thống+Kê+Phát+Triển&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&bg_color=1a1b27" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=TruongDann&theme=tokyonight&hide_border=true&stroke=70a5fd&ring=bf91f3&fire=38bdae&currStreakLabel=70a5fd&background=1a1b27" />
-
-<br><br>
-
-<img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=TruongDann&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true&custom_title=Dòng+Thời+Gian+Hoạt+Động+Phát+Triển" />
-
-</div>
-
----
-
-<div align="center">
-
 ## LIÊN HỆ CHUYÊN MÔN
 
 </div>
@@ -523,7 +428,7 @@ CI/CD Pipeline     ███████      75%
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=TruongDann&label=Phân+Tích+Profile&color=00d9ff&style=for-the-badge" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=TruongDann&label=Phân+Tích+Profile&color=FFD700&style=for-the-badge" alt="Profile Views"/>
 
 <br><br>
 
@@ -537,6 +442,6 @@ CI/CD Pipeline     ███████      75%
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,25,30&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:FFD700,100:000000&height=120&section=footer"/>
 
 </div>
