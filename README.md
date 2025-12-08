@@ -1,9 +1,9 @@
 <div align="center">
 
 <!-- Animated Header với Gradient -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,25,30&height=320&section=header&text=Võ%20Trường%20Đan&fontSize=65&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Lập%20Trình%20Viên%20Full-Stack%20%7C%20Chuyên%20Gia%20Mobile%20%7C%20Người%20Đam%20Mê%20Công%20Nghệ&descAlignY=58&descSize=22"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=320&section=header&text=Võ%20Trường%20Đan&fontSize=65&fontColor=FFD700&animation=fadeIn&fontAlignY=38&desc=Lập%20Trình%20Viên%20Full-Stack%20%7C%20Chuyên%20Gia%20Mobile%20%7C%20Người%20Đam%20Mê%20Công%20Nghệ&descAlignY=58&descSize=22&descColor=FFD700"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3500&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=900&height=140&lines=Chuyên+gia+Laravel+%26+React+Native;Xây+dựng+giải+pháp+doanh+nghiệp+mở+rộng;Đam+mê+kiến+trúc+sạch+%26+hiệu+suất+cao;Đổi+mới+thông+qua+công+nghệ" alt="Dynamic Typing Animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3500&pause=1000&color=FFD700&center=true&vCenter=true&multiline=true&width=900&height=140&lines=Chuyên+gia+Laravel+%26+React+Native;Xây+dựng+giải+pháp+doanh+nghiệp+mở+rộng;Đam+mê+kiến+trúc+sạch+%26+hiệu+suất+cao;Đổi+mới+thông+qua+công+nghệ" alt="Dynamic Typing Animation" />
 
 </div>
 
@@ -428,7 +428,7 @@ YouTube channel về lập trình
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=TruongDann&label=Phân+Tích+Profile&color=00d9ff&style=for-the-badge" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=TruongDann&label=Phân+Tích+Profile&color=FFD700&style=for-the-badge" alt="Profile Views"/>
 
 <br><br>
 
@@ -442,6 +442,6 @@ YouTube channel về lập trình
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,25,30&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:FFD700,100:000000&height=120&section=footer"/>
 
 </div>
