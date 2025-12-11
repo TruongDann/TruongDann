@@ -42,14 +42,6 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=TruongDann&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TruongDann&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-
-<br><br>
-
 <img src="https://skillicons.dev/icons?i=php,laravel,js,ts,nextjs,vue,react,postgres,mysql,docker,git,figma&perline=4" alt="Tech Stack"/>
 
 </div>
@@ -62,97 +54,190 @@
 
 <div align="center">
 
-## THÀNH THẠO CÔNG NGHỆ
+## TECHNOLOGY STACK
 
 </div>
 
 <div align="center">
 
-### Kiến Trúc Backend
-<img height="70" src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,python,django&theme=dark"/>
+### Backend
+<img height="70" src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,nestjs&theme=dark"/>
 
-### Xuất Sắc Frontend  
+### Frontend  
 <img height="70" src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,nuxtjs&theme=dark"/>
 
-### Mobile & Đa Nền Tảng
-<img height="70" src="https://skillicons.dev/icons?i=react,flutter,dart,swift,kotlin&theme=dark"/>
+### Mobile & Cross-Platform
+<img height="70" src="https://skillicons.dev/icons?i=react,flutter&theme=dark"/>
 
-### Database & Hạ Tầng
+### Databases & Infrastructure
 <img height="70" src="https://skillicons.dev/icons?i=postgres,mysql,redis,docker,aws,nginx&theme=dark"/>
 
-### Hệ Sinh Thái Phát Triển
-<img height="70" src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux&theme=dark"/>
+### Development Ecosystem
+<img height="70" src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma&theme=dark"/>
 
 </div>
 
-<br>
+
+---
 
 <div align="center">
+  <h2>FEATURED PROJECTS</h2>
+</div>
 
-### Ma Trận Thành Thạo Kỹ Thuật
+<br/>
+
+<h3>BabyCare AI – Smart Home Monitoring System</h3>
 
 <table>
 <tr>
-<td align="center" width="25%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TruongDann&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&custom_title=Ngôn+Ngữ+Chính&title_color=70a5fd&text_color=38bdae&bg_color=1a1b27" />
+<td width="50%" valign="top">
+
+<h4>Technical Architecture</h4>
+
+<pre>
+Mobile Framework:   React Native + Expo SDK 51+
+Backend Stack:      Node.js + Express + Python/Flask
+AI/ML Models:       TensorFlow Lite (MoveNet, YAMNet)
+Database Layer:     PostgreSQL + Redis Cache
+Video Storage:      AWS S3 / MinIO
+Real-time:          WebSocket + Socket.io
+Infrastructure:     Docker + Nginx
+</pre>
+
+<h4>Advanced AI Features</h4>
+
+<ul>
+  <li>Real-time fall detection using pose estimation</li>
+  <li>Baby cry detection via audio classification</li>
+  <li>Inactivity monitoring for elderly care</li>
+  <li>Multi-camera live streaming (RTSP/WebRTC)</li>
+  <li>On-device AI processing for privacy</li>
+  <li>Push notifications for emergency alerts</li>
+  <li>Two-way audio communication</li>
+  <li>Event history and video playback</li>
+</ul>
+
 </td>
-<td align="center" width="25%">
 
-**Thành Thạo Backend**
-```
-Laravel/PHP         ████████████
-Node.js/Express     ██████████
-Python/Django       ████████
-API Architecture    ████████████
-Microservices       ████████
-```
+<td width="50%" valign="top">
 
-</td>
-<td align="center" width="25%">
+<h4>System Capabilities</h4>
 
-**Xuất Sắc Frontend**
-```
-React/Next.js       ███████████
-Vue.js/Nuxt.js     ████████
-TypeScript         ██████████
-Responsive Design   ████████████
-UI/UX Design       ████████
-```
+<ul>
+  <li><strong>Video Latency:</strong> &lt; 1 second</li>
+  <li><strong>AI Detection Speed:</strong> &lt; 2 seconds</li>
+  <li><strong>Fall Detection Accuracy:</strong> 90%+ true positive</li>
+  <li><strong>False Positive Rate:</strong> &lt; 5%</li>
+  <li><strong>App Launch Time:</strong> &lt; 3 seconds</li>
+  <li><strong>Concurrent Cameras:</strong> Supports multiple</li>
+  <li><strong>Notification Delivery:</strong> &lt; 5 seconds</li>
+  <li><strong>Privacy Mode:</strong> 100% local processing</li>
+</ul>
 
-</td>
-<td align="center" width="25%">
+<h4>Key Technologies</h4>
 
-**Mobile & DevOps**
-```
-React Native       ████████
-Database Design    ███████████
-Docker/DevOps      ███████
-Cloud Architecture █████████
-CI/CD Pipeline     ███████
-```
+<ul>
+  <li>MoveNet Thunder for pose estimation</li>
+  <li>YAMNet for audio event detection</li>
+  <li>React Native WebRTC for low-latency streaming</li>
+  <li>TensorFlow Lite for mobile inference</li>
+  <li>Expo Notifications for cross-platform alerts</li>
+  <li>JWT + Biometric authentication</li>
+  <li>End-to-end encryption support</li>
+</ul>
 
 </td>
 </tr>
 </table>
 
-</div>
+---
+
+<h3>Project Management System – Next.js & NestJS</h3>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h4>Technical Architecture</h4>
+
+<pre>
+Frontend:            Next.js 15 (Turbopack) + React 19
+UI Framework:        Tailwind CSS v4 + ShadCN/UI + Radix Primitives
+State/Query:         Redux Toolkit + React Query
+Drag & Drop:         DnD Kit (Board, Sortable Tasks)
+Validation:          Zod + React Hook Form
+
+Backend:             NestJS (Modular Architecture)
+Database:            PostgreSQL + Prisma ORM
+Auth:                NextAuth (JWT) + Bcrypt
+Email Service:       Nodemailer
+Caching:             Redis
+Infrastructure:      Docker + Nginx
+</pre>
+
+<h4>Core Features</h4>
+
+<ul>
+  <li>Kanban board with drag-and-drop tasks</li>
+  <li>Project & workspace management</li>
+  <li>Role-based access control (RBAC)</li>
+  <li>Markdown editor for task descriptions</li>
+  <li>Drag-and-drop file uploads</li>
+  <li>Activity logs & audit history</li>
+  <li>Real-time updates via React Query</li>
+  <li>Dark/Light theme switching</li>
+</ul>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h4>System Capabilities</h4>
+
+<ul>
+  <li><strong>Board Rendering:</strong> Virtual rendering optimization</li>
+  <li><strong>Drag Performance:</strong> Smooth under heavy data</li>
+  <li><strong>API Response Time:</strong> ~50–150ms (NestJS + Prisma)</li>
+  <li><strong>Caching:</strong> Redis load reduction</li>
+  <li><strong>Build Performance:</strong> Turbopack accelerated</li>
+  <li><strong>SEO & SSR:</strong> Powered by Next.js</li>
+  <li><strong>Security:</strong> JWT, bcrypt hashing, CSRF-safe flow</li>
+  <li><strong>Scalability:</strong> Modular backend + Docker services</li>
+</ul>
+
+<h4>Key Technologies</h4>
+
+<ul>
+  <li>Next.js 15 + Turbopack</li>
+  <li>NestJS (modular server architecture)</li>
+  <li>Prisma ORM + PostgreSQL</li>
+  <li>Dnd-Kit for drag-and-drop</li>
+  <li>ShadCN/UI + Radix components</li>
+  <li>React Query & Redux Toolkit</li>
+  <li>Tailwind CSS v4 + Prettier plugin</li>
+  <li>Nodemailer + JWT authentication</li>
+</ul>
+
+</td>
+</tr>
+</table>
 
 ---
 
 <div align="center">
 
-## PHÂN TÍCH HIỆU SUẤT
+## PERFORMANCE ANALYTICS
 
 </div>
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=TruongDann&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&custom_title=Thống+Kê+Phát+Triển&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&bg_color=1a1b27" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=TruongDann&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&custom_title=Development+Statistics&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&bg_color=1a1b27" />
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=TruongDann&theme=tokyonight&hide_border=true&stroke=70a5fd&ring=bf91f3&fire=38bdae&currStreakLabel=70a5fd&background=1a1b27" />
 
 <br><br>
 
-<img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=TruongDann&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true&custom_title=Dòng+Thời+Gian+Hoạt+Động+Phát+Triển" />
+<img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=TruongDann&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true&custom_title=Development+Activity+Timeline" />
 
 </div>
 
@@ -160,106 +245,55 @@ CI/CD Pipeline     ███████
 
 <div align="center">
 
-## DANH MỤC DỰ ÁN NỔI BẬT
+## PROFESSIONAL EXPERIENCE
 
 </div>
 
-### Hệ Sinh Thái Thương Mại Điện Tử Doanh Nghiệp
+### Senior Software Developer
+**GOLDEN BEE TECHNOLOGY SOLUTIONS** | *Aug 2024 – Present* | *Can Tho, Vietnam*
 
 <table>
 <tr>
 <td width="50%">
 
-**Kiến Trúc Kỹ Thuật**
+**Development Responsibilities**
+- Designed enterprise-level application architecture serving 100K+ users  
+- Made key technical decisions for critical system infrastructure  
+- Established internal coding standards and best practices  
+- Supported and guided a team of 8 engineers  
+- Promoted adoption of modern DevOps workflows  
+- Collaborated with stakeholders on technical strategies  
+- Evaluated and recommended emerging technologies  
 
-```yaml
-Backend Framework: Laravel 10 + Filament 3.x
-Frontend Stack: Vue.js 3 + TypeScript
-Database Layer: MySQL 8.0 + Redis Cache
-Infrastructure: Docker + Nginx + SSL
-Payment Systems: Stripe, PayPal, VNPay
-Real-time Features: WebSocket + Pusher
-```
-
-**Tính Năng Nâng Cao**
-- Kiến trúc đa thuê bao với cách ly nhà cung cấp
-- Đồng bộ hóa kho hàng thời gian thực
-- Dashboard phân tích nâng cao với KPI tùy chỉnh
-- Tính toán thuế tự động và tuân thủ
-- Công cụ đề xuất học máy
-- Hệ thống kiểm toán toàn diện
-- Tích hợp ERP và CRM
+**Technical Achievements**
+- Improved application response time by 60% through optimization  
+- Built CI/CD pipelines reducing deployment time by 80%  
+- Implemented a comprehensive testing framework (95% coverage)  
+- Modernized multiple legacy systems  
+- Increased team productivity by 40%  
 
 </td>
 <td width="50%">
 
-**Điểm Chuẩn Hiệu Suất**
+**Project Impact Overview**
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=TruongDann&repo=enterprise-ecommerce&theme=tokyonight&hide_border=true&title_color=70a5fd&text_color=38bdae&bg_color=1a1b27" />
-
-</div>
-
-**Chỉ Số Khả Năng Mở Rộng**
 ```
-Tốc độ tải trang:       < 1.2s (GTMetrix A+)
-Người dùng đồng thời:   25,000+ cùng lúc
-Truy vấn database:      < 50ms phản hồi TB
-Độ tin cậy hoạt động:   99.9% uptime
-Đánh giá bảo mật:       A+ SSL Labs
-Thông lượng API:        10,000+ req/min
+Delivered Projects: 12 enterprise applications
+Code Quality Score: 9.2 / 10 (SonarQube)
+Client Satisfaction: 98% positive feedback
+Team Productivity: +40% velocity
+Production Issues: -75% incidents
+Performance Gains: +45% average speed
+Project ROI: ~250% on average
 ```
 
-</td>
-</tr>
-</table>
 
-### Nền Tảng Ngân Hàng Di Động
-
-<table>
-<tr>
-<td width="50%">
-
-**Hạ Tầng Bảo Mật**
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=TruongDann&repo=secure-banking-app&theme=tokyonight&hide_border=true&title_color=70a5fd&text_color=38bdae&bg_color=1a1b27" />
-
-</div>
-
-**Tính Năng Bảo Mật Nâng Cao**
-```
-Xác thực sinh trắc học:  Face ID + Vân tay
-Mã hóa:                  AES-256 end-to-end
-Quản lý token:           JWT với refresh rotation
-Phát hiện gian lận:      Phân tích thời gian thực ML
-Tuân thủ:                PCI DSS Level 1 certified
-Audit trail:             Toàn bộ hoạt động logged
-```
-
-</td>
-<td width="50%">
-
-**Stack Công Nghệ**
-
-```yaml
-Mobile Framework: React Native 0.72+
-Backend Services: Node.js + Express.js
-Database: PostgreSQL with encryption
-Real-time: Socket.io WebSocket
-Testing: Jest + Detox automation
-Security: OAuth2 + HTTPS + Certificate Pinning
-```
-
-**Tính Năng Tài Chính**
-- Chuyển tiền ngang hàng tức thì
-- Ví đa tiền tệ hỗ trợ quốc tế
-- Quản lý danh mục đầu tư thông minh
-- Lập ngân sách AI với phân tích chi tiêu
-- Tự động hóa thanh toán hóa đơn
-- Tích hợp tiền điện tử và forex
+**Technical Improvements**
+- Custom Laravel packages for reusable business logic  
+- React Native component library for consistent mobile UI  
+- Database performance strategies for high-traffic workloads  
+- Automated deployment and monitoring solutions  
+- Microservices architecture for scalability  
 
 </td>
 </tr>
@@ -269,64 +303,7 @@ Security: OAuth2 + HTTPS + Certificate Pinning
 
 <div align="center">
 
-## KINH NGHIỆM CHUYÊN MÔN
-
-</div>
-
-### Lập Trình Viên Cấp Cao
-**GOLDEN BEE TECHNOLOGY SOLUTIONS** | *Tháng 8/2024 - Hiện tại* | *Cần Thơ, Việt Nam*
-
-<table>
-<tr>
-<td width="50%">
-
-**Trách Nhiệm Lãnh Đạo**
-- Thiết kế kiến trúc ứng dụng cấp doanh nghiệp phục vụ 100K+ người dùng
-- Dẫn dắt quyết định kỹ thuật cho hạ tầng quan trọng
-- Thiết lập tiêu chuẩn phát triển và thực hành tốt nhất
-- Cố vấn nhóm phát triển gồm 8 kỹ sư
-- Thúc đẩy áp dụng thực hành DevOps hiện đại
-- Giao tiếp với các bên liên quan về chiến lược kỹ thuật
-- Đánh giá và lựa chọn công nghệ mới
-
-**Thành Tựu Kỹ Thuật**
-- Giảm 60% thời gian phản hồi ứng dụng qua tối ưu hóa
-- Triển khai pipeline CI/CD giảm 80% thời gian deploy
-- Thiết lập framework testing toàn diện (95% coverage)
-- Di chuyển hệ thống cũ sang kiến trúc hiện đại
-- Tăng 40% năng suất nhóm phát triển
-
-</td>
-<td width="50%">
-
-**Tác Động Danh Mục Dự Án**
-
-```
-Dự án đã giao:          12 ứng dụng doanh nghiệp
-Điểm chất lượng code:   9.2/10 (phân tích SonarQube)
-Hài lòng khách hàng:    98% phản hồi tích cực
-Năng suất nhóm:         Tăng 40% velocity
-Giảm lỗi:              75% giảm vấn đề production
-Cải thiện hiệu suất:    Trung bình 45% tăng tốc độ
-ROI dự án:             250% trung bình
-```
-
-**Đổi Mới Kỹ Thuật**
-- Package Laravel tùy chỉnh cho logic business tái sử dụng
-- Thư viện component React Native cho tính nhất quán mobile
-- Chiến lược tối ưu database cho ứng dụng lưu lượng cao
-- Giải pháp triển khai và giám sát tự động
-- Microservices architecture cho scalability
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-## THAM GIA CỘNG ĐỒNG
+## COMMUNITY ENGAGEMENT
 
 </div>
 
@@ -334,53 +311,41 @@ ROI dự án:             250% trung bình
 <tr>
 <td width="33%" align="center">
 
-**Đóng Góp Mã Nguồn Mở**
+**Open Source Contributions**
 
-<br>
+<br><br>
 
-Đóng góp tích cực cho các package hệ sinh thái Laravel
-
-Phát triển và bảo trì plugin WordPress
-
-Đóng góp thư viện JavaScript trên NPM
-
-Tạo tài liệu và hướng dẫn kỹ thuật
-
-Maintainer cho 3 open source projects
+Active contributions to Laravel ecosystem packages  
+Development and maintenance of WordPress plugins  
+Contributions to JavaScript libraries on NPM  
+Creating documentation and technical guides  
+Maintainer of three open-source projects  
 
 </td>
 <td width="33%" align="center">
 
-**Cộng Đồng Kỹ Thuật**
+**Tech Community Activities**
 
-<br>
+<br><br>
 
-Điều hành cộng đồng Laravel Vietnam
-
-Tổ chức meetup developer React Native
-
-Hướng dẫn workshop công nghệ mới nổi
-
-Chương trình code review và mentorship
-
-Tech talk speaker tại các sự kiện
+Supporting the Laravel Vietnam community  
+Organizing React Native developer meetups  
+Leading workshops on emerging technologies  
+Providing code reviews and mentorship  
+Sharing insights at industry events  
 
 </td>
 <td width="33%" align="center">
 
-**Chia Sẻ Kiến Thức**
+**Knowledge Sharing**
 
-<br>
+<br><br>
 
-Viết blog kỹ thuật và hướng dẫn
-
-Phát biểu tại hội thảo công nghệ
-
-Giảng dạy khách mời tại trường đại học
-
-Phát triển chương trình đào tạo nội bộ
-
-YouTube channel về lập trình
+Writing technical blogs and tutorials  
+Sharing insights at technology conferences  
+Guest sessions at universities  
+Developing internal training programs  
+Running a programming-focused YouTube channel  
 
 </td>
 </tr>
@@ -390,39 +355,42 @@ YouTube channel về lập trình
 
 <div align="center">
 
-## LIÊN HỆ CHUYÊN MÔN
+## PROFESSIONAL CONTACT
 
 </div>
 
 <table>
 <tr>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/Liên_Lạc_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 <br><br>
 <a href="mailto:contact.danvt@gmail.com"><strong>contact.danvt@gmail.com</strong></a>
 <br>
-<sub>Liên lạc kinh doanh chính</sub>
+<sub>Main business contact</sub>
 </td>
+
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/Liên_Hệ_Trực_Tiếp-00E676?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+<img src="https://img.shields.io/badge/Direct_Contact-00E676?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 <br><br>
 <strong>+84 352 423 133</strong>
 <br>
-<sub>Có mặt 9 AM - 6 PM ICT</sub>
+<sub>Available 9 AM – 6 PM (ICT)</sub>
 </td>
+
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/Vị_Trí-FF5722?style=for-the-badge&logo=google-maps&logoColor=white"/>
+<img src="https://img.shields.io/badge/Location-FF5722?style=for-the-badge&logo=google-maps&logoColor=white"/>
 <br><br>
-<strong>Cần Thơ, Việt Nam</strong>
+<strong>Can Tho, Vietnam</strong>
 <br>
-<sub>Múi giờ GMT+7</sub>
+<sub>Timezone GMT+7</sub>
 </td>
+
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/Mạng_Lưới_Chuyên_Môn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Professional_Network-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 <br><br>
-<a href="https://linkedin.com/in/votruongdan"><strong>Hồ Sơ LinkedIn</strong></a>
+<a href="https://linkedin.com/in/votruongdan"><strong>LinkedIn Profile</strong></a>
 <br>
-<sub>Kết nối chuyên nghiệp</sub>
+<sub>Professional connections</sub>
 </td>
 </tr>
 </table>
@@ -431,19 +399,19 @@ YouTube channel về lập trình
 
 <div align="center">
 
-### Triết Lý Phát Triển
+### Development Philosophy
 
-*"Code tốt nhất không chỉ hoạt động được—nó còn dễ đọc, dễ bảo trì và đóng vai trò tài liệu cho các developer tương lai. Mỗi commit là một bước tiến trong việc xây dựng thứ gì đó tồn tại lâu hơn cả người tạo ra nó."*
+*"The best code is not only functional — it is readable, maintainable, and serves as documentation for future developers. Every commit should contribute to something that lasts longer than the person who writes it."*
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=TruongDann&label=Phân+Tích+Profile&color=FFD700&style=for-the-badge" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=TruongDann&label=Profile+Analytics&color=FFD700&style=for-the-badge" alt="Profile Views"/>
 
 <br><br>
 
 <div align="center">
 
-**Hiện đang chấp nhận các dự án thách thức và cơ hội hợp tác**
+**Currently open to challenging projects and collaboration opportunities**
 
 </div>
 
