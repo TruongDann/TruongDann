@@ -1,17 +1,19 @@
 <div align="center">
+<!-- Header Gradient -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=300&section=header&text=VO%20TRUONG%20DAN&fontSize=60&fontColor=000000&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Website%20Design%20%7C%20Application%20Development&descAlignY=58&descSize=22&descColor=000000"/>
 
-<!-- Animated Header với Gradient -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=320&section=header&text=Võ%20Trường%20Đan&fontSize=65&fontColor=000000&animation=fadeIn&fontAlignY=38&desc=Lập%20Trình%20Viên%20Backend%20PHP%20%7C%20Laravel%20%7C%20Đam%20Mê%20Công%20Nghệ&descAlignY=58&descSize=22&descColor=000000"/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3500&pause=1000&color=DAA520&center=true&vCenter=true&multiline=true&width=900&height=140&lines=Làm+việc+với+Laravel+và+PHP;Xây+dựng+API+và+hệ+thống+doanh+nghiệp;mục+tiêu+hiệu+suất+và+bảo+trì;Tập+trung+vào+backend+sạch+và+an+toàn" alt="Dynamic Typing Animation" />
-
+<!-- Typing intro -->
+<img 
+    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3500&pause=1000&color=DAA520&center=true&vCenter=true&multiline=true&width=900&height=140&lines=Professional+Software+Development;Custom+Website+Design;Building+Efficient+Applications;VPS+%26+Server+Deployment" 
+    alt="Typing Animation" 
+/>
 </div>
 
 ---
 
 <div align="center">
 
-## TỔNG QUAN CHUYÊN MÔN
+## PROFESSIONAL OVERVIEW
 
 </div>
 
@@ -19,29 +21,36 @@
 <tr>
 <td width="68%">
 
-### Lãnh Đạo Kỹ Thuật & Đổi Mới
+### Introduction
 
-**Lập trình viên Backend ** với kinh nghiệm phong phú trong việc phát triển ứng dụng cấp doanh nghiệp và giải pháp di động. Chuyên về tạo ra các kiến trúc mạnh mẽ, có khả năng mở rộng nhằm thúc đẩy tăng trưởng kinh doanh và mang lại trải nghiệm người dùng tuyệt vời.
+**Backend Developer** with diverse capabilities across frontend and mobile development. Focus on building robust backend systems while being able to deliver comprehensive solutions from server to user interface.
 
-### Lĩnh Vực Chuyên Môn:
-- **Phát Triển Web Doanh Nghiệp** - Hệ sinh thái Laravel với Filament nâng cao
-- **Kiến Trúc Ứng Dụng Di Động** - Giải pháp đa nền tảng React Native
-- **Frontend Engineering** - Framework JavaScript hiện đại và thiết kế responsive
-- **Tối Ưu Cơ Sở Dữ Liệu** - PostgreSQL và MySQL hiệu suất cao
-- **DevOps & Hạ Tầng** - Docker container và chiến lược triển khai cloud
+### Core Skills:
 
-### Triết Lý Nghề Nghiệp:
-> *"Code là thơ được viết cho máy móc nhưng được đọc bởi con người. Mỗi function phải kể một câu chuyện, mỗi class phải có mục đích, và mỗi dự án phải giải quyết vấn đề thực tế."*
+- **Backend Development** - PHP MVC, Laravel framework and Filament admin panel
+- **Frontend Engineering** - Next.js and Vue.js for modern web applications
+- **Mobile Application Architecture** - Cross-platform React Native solutions
+- **Database Optimization** - High-performance PostgreSQL and MySQL
+- **DevOps & Infrastructure** - Web hosting deployment, VPS system management, and Docker
+
+### Professional Philosophy:
+
+> *"Opportunities don't come from luck, but from preparation. Every line of code today is the foundation for tomorrow's success. Skills are accumulated over time, expertise is forged through real-world practice."*
 
 </td>
 <td width="32%">
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=TruongDann&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&custom_title=Phân+Tích+Hiệu+Suất&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&bg_color=1a1b27" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=TruongDann&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
 
 <br><br>
 
-<img src="https://github-widgetbox.vercel.app/api/skills?languages=php,javascript,typescript,python,dart&frameworks=laravel,react,vue,nextjs&databases=postgresql,mysql,redis&tools=docker,git,figma&theme=dark" alt="Tech Stack"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TruongDann&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=php,laravel,js,ts,nextjs,vue,react,postgres,mysql,docker,git,figma&perline=4" alt="Tech Stack"/>
 
 </div>
 
